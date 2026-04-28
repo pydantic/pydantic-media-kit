@@ -9,12 +9,12 @@ This repository is a media kit for Pydantic. It contains bio, headshot, and offi
 
 ## Social links 
 
-Website: https://pydantic.dev/
-Linkedin: https://linkedin.com/company/pydantic
-Youtube: https://www.youtube.com/@pydantic
-X: https://x.com/pydantic
-GitHub: https://github.com/pydantic
-Slack Community: https://logfire.pydantic.dev/docs/join-slack/
+- Website: https://pydantic.dev/
+- Linkedin: https://linkedin.com/company/pydantic
+- Youtube: https://www.youtube.com/@pydantic
+- X: https://x.com/pydantic
+- GitHub: https://github.com/pydantic
+- Slack Community: https://logfire.pydantic.dev/docs/join-slack/
 
 
 ## Pydantic Logfire
