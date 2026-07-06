@@ -16,6 +16,9 @@ This repository is a media kit for Pydantic. It contains bio, headshot, and offi
 - GitHub: https://github.com/pydantic
 - Slack Community: https://logfire.pydantic.dev/docs/join-slack/
 
+## Pydantic (company description)
+Pydantic is the end-to-end AI engineering stack for teams building reliable, type-safe AI applications, featuring Pydantic Logfire for full-stack AI observability, tracing the entire application, not just the LLM layer, and evaluates AI outputs, alongside Pydantic Validation for data validation and Pydantic AI for agent development.
+
 
 ## Pydantic Logfire
 From the team behind the ubiquitous Pydantic Stack, Pydantic Logfire is a full-stack observability platform for AI applications covering logs, metrics, traces, evals, prompt management, and more. By letting coding agents query traces with SQL to understand how an application operates in production, Logfire closes the loop making AI development a supervised learning challenge.
